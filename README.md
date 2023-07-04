@@ -1,0 +1,1 @@
+curl --request GET --url 'https://restapi.nftscan.com/api/v2/account/own/all/0xca1257ade6f4fa6c6834fdc42e030be6c0f5a813?erc_type=erc721&show_attribute=true'  --header 'X-API-KEY: 1OQDDHtDKgY3dYdmDL5oh5UI'
